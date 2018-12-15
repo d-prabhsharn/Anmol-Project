@@ -1,0 +1,15 @@
+
+
+footer .row {
+    text-align: center;
+}
+
+.zoom {
+  padding: 50px;
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.5); 
+}
